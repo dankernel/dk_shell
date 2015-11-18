@@ -10,8 +10,8 @@
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  YOUR NAME (), 
- *   Organization:  
+ *         Author:  JunHyung Park 
+ *   Organization:  Dankook Univ.
  *
  * =====================================================================================
  */
@@ -192,7 +192,7 @@ int main(){
   char buf[MAX];
   char *arg1[MAX];
   char *arg2[MAX];
-  char shell_str[MAX] = "[earotis]$ ";
+  char shell_str[MAX] = "[earotis] $ ";
   int red = -1;
 
   for(i=0; i<10; i++){
