@@ -1,0 +1,8 @@
+Doxyfile
+compile.sh
+git_backup.sh
+gmon.out
+main
+main.c
+out.txt
+tags

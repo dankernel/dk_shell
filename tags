@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CD	main.c	31;"	d	file:
+HELP	main.c	32;"	d	file:
+MAX	main.c	26;"	d	file:
+PIPE	main.c	30;"	d	file:
+RED_L	main.c	29;"	d	file:
+RED_R	main.c	28;"	d	file:
+do_chdir	main.c	/^int do_chdir(char **artg1, char **arg2, int option){$/;"	f
+do_cmd	main.c	/^int do_cmd(char **arg){$/;"	f
+do_exec	main.c	/^int do_exec(char **arg1, int oprion){$/;"	f
+do_pipe	main.c	/^int do_pipe(char **arg1, char **arg2, int option){$/;"	f
+do_redirection	main.c	/^int do_redirection(char **arg1, char **arg2, int option){$/;"	f
+get_token	main.c	/^int get_token(char *buf, char **arg1, char **arg2){$/;"	f
+main	main.c	/^int main(){$/;"	f
